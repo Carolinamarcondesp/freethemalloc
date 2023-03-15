@@ -4,3 +4,5 @@
 # he was a pain in the *** a lot of times.. but ultimately we had to free him! 😂
 
 Will overtime post some projects in C right here.. have to say all of them were great mind challenges.. but C turned out to be an excellent teacher! xD
+
+You can find [raceAtec code](https://github.com/Carolinamarcondesp/raceATEC) where we had to free some mallocs 🙃
